@@ -53,7 +53,7 @@ def check(pass_):
 
 nums = []
 tempor = [""]
-with open("numbers.txt", "r") as f:
+with open("numbers(Day 2).txt", "r") as f:
   a = f.readline()
   for line in a:
     for i in f:
